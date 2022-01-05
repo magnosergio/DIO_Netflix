@@ -13,7 +13,7 @@
 }
 body{
     background: var(--preto);
-    font-family: 'Times New Roman';
+    font-family: 'Arial', Times;
     color: white;
 }
 header .container{
@@ -83,9 +83,11 @@ header nav a:hover{
 .filme-principal .container{
     width: 70%;
 }
-}
 .box-filme{
     height: 100%;
     width: 100%;
     display: block;
+}
+.carrossel{
+    margin-top: 10px;
 }
